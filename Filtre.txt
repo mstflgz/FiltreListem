@@ -1,0 +1,119 @@
+! 2023-04-02 https://karanpc.com
+karanpc.com###text-11
+karanpc.com###text-12
+karanpc.com###text-6
+karanpc.com##.the_champ_bottom_sharing.the_champ_hide_sharing.the_champ_vertical_sharing.the_champ_sharing_container
+karanpc.com##.background
+karanpc.com##.onesignal-bell-svg
+karanpc.com##.onesignal-bell-launcher-button
+
+! 2023-09-10 https://mebbis.meb.gov.tr
+mebbis.meb.gov.tr##canvas
+mebbis.meb.gov.tr##.red.circleStatsItemBox
+
+! 2023-10-17 https://online.spor.istanbul
+online.spor.istanbul##.alert-info.alert
+online.spor.istanbul##.page-prefooter > .container-fluid
+
+! 2023-12-09 https://onual.com
+onual.com##.chat
+onual.com##.top-4.lg\:grid-cols-1.md\:grid-cols-2.gap-4.grid-cols-1.grid.sticky > .shadow.rounded-lg.bg-white.space-y-2.p-2
+onual.com##.top-4.lg\:grid-cols-1.md\:grid-cols-2.gap-4.grid-cols-1.grid.sticky > div.shadow.rounded-lg.bg-white.p-2
+onual.com##.client-section
+onual.com##.bg-cta-section
+onual.com##.footer-b
+onual.com##.entry-content > p
+onual.com##.whatsapp
+onual.com##.additional-posts
+onual.com##.wp-block-group.wp-container-2
+onual.com##.widget_rtc_social_links.widget
+onual.com##.wp-block-group.wp-container-1 > .wp-block-group__inner-container
+onual.com##.widget_categories.widget
+onual.com##.postbit-signature.border-gray-200.border-t.mt-6.pt-4
+onual.com##.shadow.bg-gray-800.py-6
+onual.com##.bg-transparent-light-64.shadow.py-8.z-20
+onual.com##.shadow.rounded-lg.bg-gray-700.mb-4.p-2.justify-between.items-center.flex-wrap.flex
+
+! 2023-12-09 https://forum.donanimhaber.com
+forum.donanimhaber.com###appIntroductionPopup
+forum.donanimhaber.com##.open-with-app
+forum.donanimhaber.com###dh-application-duyuru-context
+forum.donanimhaber.com###next-page-container-3 > .gallery.forum > div.ikisayfaarasi > .tag-list-content.reklamiatla.minik.arareklam > .tip1.DH-Sosyal
+
+! 2023-12-10 https://jestyayin755.com
+jestyayin755.com##.header-top
+||jestyayin755.com/logo.png$image
+jestyayin755.com##header
+jestyayin755.com##.ads-img
+jestyayin755.com##.reklam-3
+jestyayin755.com##footer
+
+! 2023-12-09 https://golvar1026.sbs
+||golvar1026.sbs/wp-content/uploads/2021/06/gvtv.png$image
+golvar1026.sbs##header
+golvar1026.sbs##.header-top
+golvar1026.sbs##[src="https://golvar1026.sbs/wp-content/uploads/2023/09/ghzwmes.gif"]
+golvar1026.sbs##[src="https://golvar1026.sbs/wp-content/uploads/2023/09/6kv47c6.gif"]
+golvar1026.sbs##footer
+golvar1026.sbs##.pageskin
+golvar1026.sbs##.vdkdmgbgbsnsxc
+||golvar1026.sbs/wp-content/themes/ikisifirbirdokuz/assets/_/pl.png$image
+golvar1026.sbs##.vdldl
+
+! 2023-12-10 https://www.trgoals608.xyz
+||www.trgoals608.xyz/logo.png$image
+www.trgoals608.xyz##.topDuyuru
+www.trgoals608.xyz##header
+www.trgoals608.xyz##marquee
+www.trgoals608.xyz##body > div > a
+www.trgoals608.xyz##.contentReklam
+www.trgoals608.xyz##.otherContent
+www.trgoals608.xyz##footer
+||st.chatango.com/h5/gz/r0925230558/id.html$subdocument
+||cdn-dfj.pages.dev/ligobetlogo.png$image
+
+! 2023-12-10 https://izlemac5594.sbs
+||izlemac5594.sbs/logo.png$image
+izlemac5594.sbs##.siteAnnouncer.alert-success.alert
+izlemac5594.sbs##.boxed-header.navbar
+izlemac5594.sbs###footer
+izlemac5594.sbs##.s0c14lsider_opacity.s0c14lsider_spacer.s0c14lsider_colorize.s0c14lsider_bgdark_white.s0c14lsider_fixed.s0c14lsider_right_middle.s0c14lsider [href]
+
+! 2023-12-10 https://www.selcuksportshd857.xyz
+||www.selcuksportshd857.xyz/img/logo.png$image
+www.selcuksportshd857.xyz##.header
+www.selcuksportshd857.xyz##.banners.container
+www.selcuksportshd857.xyz##.footer
+
+! 2023-12-09 https://vegoltv773.com
+||vegoltv773.com/logo.png$image
+vegoltv773.com##header
+vegoltv773.com##.header-top
+vegoltv773.com##[src="https://vegoltv773.com/wp-content/uploads/2023/09/ghzwmes.gif"]
+vegoltv773.com##[src="https://vegoltv773.com/wp-content/uploads/2023/09/6kv47c6.gif"]
+vegoltv773.com##footer
+vegoltv773.com##.pageskin
+vegoltv773.com##.vdkdmgbgbsnsxc
+||vegoltv773.com/wp-content/themes/ikisifirbirdokuz/assets/_/pl.png$image
+vegoltv773.com##.vdldl
+vegoltv773.com##.ads-img
+vegoltv773.com##.reklam-3
+
+! 2023-12-16 https://rexdl.com
+rexdl.com##center:nth-of-type(1)
+
+! 2023-12-16 https://rexdlbox.com
+rexdlbox.com##p:nth-of-type(2)
+rexdlbox.com##p:nth-of-type(1)
+rexdlbox.com##.btnyb
+rexdlbox.com##.btn
+rexdlbox.com##.btninsta
+
+! 2023-12-18 https://onual.com
+onual.com##.blossomthemes-email-newsletter-wrapper
+onual.com###blossomthemes_email_newsletter_widget-4 > .widget-title
+
+! 2024-01-20 https://goodporn.to
+||content23.goodporn.to/banner/banner-03-382e-382ke.gif$image
+goodporn.to##.opt
+
